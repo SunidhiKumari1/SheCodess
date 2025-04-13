@@ -23,22 +23,26 @@ CareBuddy is a comprehensive web application built to support elderly individual
 **APIs & Tools**: Google Maps API, YouTube (for exercise videos)
 **Design tool**: Figma
 
-##  How to Run the Project
+## How to Run This Project
 
-1. **Clone the Repository:**
+You can run the SheCodess website in two ways:
+
+### 1. View Live (Recommended)
+Visit the live version of the site hosted on GitHub Pages:  
+👉 
+https://github.com/SunidhiKumari1/SheCodess/tree/main
+---
+
+###  2. Run Locally
+
+Follow these steps:
+
+1. **Clone the repository**
    ```bash
-   https://github.com/sakshipriya10/SheCodess
-2. ## Frontend Setup
-
-
-
-
-
-
-
-
+   git clone https://github.com/SunidhiKumari1/SheCodess.git
 
 ##  Screenshots
+
 
 
 
