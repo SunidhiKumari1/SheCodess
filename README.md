@@ -36,10 +36,15 @@ https://github.com/SunidhiKumari1/SheCodess/tree/main
 ###  2. Run Locally
 
 Follow these steps:
-
-1. **Clone the repository**
+**Clone the repository**
    ```bash
    git clone https://github.com/SunidhiKumari1/SheCodess.git
+**Navigate the project directory**
+cd SheCodess
+**Open the website**
+start index.html    # On Windows
+open index.html     # On macOS
+xdg-open index.html # On Linux
 
 ##  Screenshots
 ![s1](https://github.com/sakshipriya10/SheCodess/blob/main/Screenshot%202025-04-13%20152844.png)
