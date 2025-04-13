@@ -42,10 +42,11 @@ Follow these steps:
    git clone https://github.com/SunidhiKumari1/SheCodess.git
 
 ##  Screenshots
-![s1](https://github.com/sakshipriya10/SheCodess/blob/main/Screenshot%202025-04-13%20151702.png)
-![s2]()
-![s3]()
-![s4]()
+![s1](https://github.com/sakshipriya10/SheCodess/blob/main/Screenshot%202025-04-13%20152844.png)
+![s2](https://github.com/sakshipriya10/SheCodess/blob/main/Screenshot%202025-04-13%20151702.png)
+![s3](https://github.com/sakshipriya10/SheCodess/blob/main/Screenshot%202025-04-13%20151449.png)
+![s3](https://github.com/sakshipriya10/SheCodess/blob/main/Screenshot%202025-04-13%20151702.png)
+![s4](https://github.com/sakshipriya10/SheCodess/blob/main/Screenshot%202025-04-13%20152905.png)
 ![s5]()
 ![s6]()
 
