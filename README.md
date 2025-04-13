@@ -42,12 +42,12 @@ Follow these steps:
    git clone https://github.com/SunidhiKumari1/SheCodess.git
 
 ##  Screenshots
-![s1]()
-![s1]()
-![s1]()
-![s1]()
-![s1]()
-![s1]()
+![s1](https://github.com/sakshipriya10/SheCodess/blob/main/Screenshot%202025-04-13%20151702.png)
+![s2]()
+![s3]()
+![s4]()
+![s5]()
+![s6]()
 
 
    
