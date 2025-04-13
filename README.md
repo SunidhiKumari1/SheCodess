@@ -42,8 +42,12 @@ Follow these steps:
    git clone https://github.com/SunidhiKumari1/SheCodess.git
 
 ##  Screenshots
-
-
+![s1]()
+![s1]()
+![s1]()
+![s1]()
+![s1]()
+![s1]()
 
 
    
